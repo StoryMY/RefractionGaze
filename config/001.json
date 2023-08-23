@@ -1,0 +1,14 @@
+{
+    "train_h5": "dataset/001/001_000_01.h5",
+    "test_h5_list": ["dataset/001/001_000_02.h5", 
+                    "dataset/001/001_550_01.h5"],
+    "batch": 60,
+    "num_workers": 2,
+    "epoch_num": 500,
+    "lr": 0.001,
+    "lr_ramp": 0.7,
+    "log_dir": "logs",
+    "log_gap": 50,
+    "sample_gap": 50,
+    "save_gap": 500
+}
