@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ```
 
 # Data
-This repository contains data of the Relative Coordinate Representation (RCR) and eye region images. Please download the data from [Google Drive](https://drive.google.com/file/d/1qceDNR_b8cL4Vbjq2CgbDoZTHzHhUCWf/view?usp=drive_link) and put them in the ```dataset``` directory.
+This repository contains data of the Relative Coordinate Representation (RCR) and eye region images. Please download the data from [Google Drive](https://drive.google.com/file/d/1qceDNR_b8cL4Vbjq2CgbDoZTHzHhUCWf/view?usp=sharing) and put them in the ```dataset``` directory.
 
 The data is organized as follows:
 ```
